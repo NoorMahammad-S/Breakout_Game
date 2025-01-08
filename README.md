@@ -58,4 +58,3 @@ You need to have Python and the Turtle graphics library installed on your system
 - Thank you to the Python community for the Turtle graphics library.
 
 Have fun playing the Breakout Game!
-
