@@ -51,7 +51,6 @@ You need to have Python and the Turtle graphics library installed on your system
 - Python
 - Turtle Graphics Library
 
-
 ## Acknowledgments
 
 - This game is based on the classic arcade game Breakout.
